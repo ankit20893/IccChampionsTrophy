@@ -16,7 +16,7 @@ This consists of following features :
 
 1. clone this repository:
 ```
-git clone https://github.com/ankit20893.git
+git clone https://github.com/ankit20893/IccChampionsTrophy.git
 ```
 2. Enter the laradock folder and rename env-example to .env.
 ```
